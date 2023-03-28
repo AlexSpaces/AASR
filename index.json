@@ -75,16 +75,6 @@
     
       "Conversion":[
           {
-              "name":"Scylla ( Cracked )",
-              "developer":"Puffer, Beef & Aleex ( Duh )",
-              "version":"0.1.3", 
-              "ipa":"",
-              "icon":"",
-              "iOS":"11.0+",
-              "description":"",
-              "color":"Apps theme color, example: #db4658"
-          },
-          {
               "name":"Scylla ( Aleex's Fork )",
               "developer":"Puffer, Beef & Aleex ( Duh )",
               "version":"0.1.3", 
